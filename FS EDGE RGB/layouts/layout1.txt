@@ -1,0 +1,11 @@
+{hk3}>{x1}{-rshft}{w}{+rshft}{h}{a}{t}{g}{bspc}{lspc}{d}{o}{e}{s}{lspc}{t}{h}{i}{s}{caps}{lspc}{d}{o}{caps}{/}{-lshft}{+lshft}{lspc}{o}{h}{per}{\}
+{hk1}>{x1}{-lctrl}{ins}{+lctrl}
+{hk2}>{x1}{-lshft}{ins}{+lshft}
+fn {h}>{x1}{t}{h}{i}{s}{lspc}{i}{s}{lspc}{a}{t}{e}{s}{t}{per}{ent}
+{hk7}>{x1}{h}{e}{l}{l}{o}{com}{lspc}{w}{o}{r}{d}
+{hk8}>{x1}{f}{i}{x}{e}{d}{per}
+{lctrl}{hk0}>{x1}{-lctrl}{-lctrl}{ins}
+{lshft}{hk0}>{x1}{-lshft}{-lshft}{ins}{+lshft}
+{rshft}{hk0}>{x1}{-rctrl}{v}{+rctrl}
+{rctrl}{hk0}>{x1}{-lctrl}{-lctrl}{ins}{+lctrl}
+{hk0}>{x1}{esc}
