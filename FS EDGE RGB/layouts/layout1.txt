@@ -1,15 +1,19 @@
 [hk0]>[esc]
 [caps]>[lwin]
 
+{shift}{rshft}>[caps]
+{rshft}{shift}>[caps]
+
 [pause]>[ins]
 fn [pause]>[pause]
+
+fn [u]>[caps]
 
 {hk1}>{x1}{-lctrl}{-lwin}{lft}{+lwin}{+lctrl}
 {hk2}>{x1}{-lctrl}{-lwin}{rght}{+lwin}{+lctrl}
 {hk3}>{x1}{-lctrl}{-lalt}{lft}{+lalt}{+lctrl}
 {hk4}>{x1}{-lctrl}{-lalt}{rght}{+lalt}{+lctrl}
-{hk5}>{x1}{h}{k}{5}
-{hk6}>{x1}{h}{k}{6}
-{hk7}>{x1}{h}{k}{7}
-{hk8}>{x1}{h}{k}{8}
-
+{hk5}>{x1}{-lctrl}{pup}{+lctrl}
+{hk6}>{x1}{-lctrl}{pdn}{+lctrl}
+{hk7}>{x1}{-lalt}{tab}{+lalt}
+{hk8}>{x1}{-lalt}{-lshft}{tab}{-lshft}{+lalt}
